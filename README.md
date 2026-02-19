@@ -7,3 +7,6 @@
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+
