@@ -15,3 +15,5 @@
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
 - [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)
+
+- [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)  --> GFG
