@@ -17,3 +17,5 @@
 - [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)
 
 - [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)  --> GFG
+
+- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
