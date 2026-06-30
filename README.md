@@ -19,3 +19,5 @@
 - [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)  --> GFG
 
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
