@@ -21,3 +21,5 @@
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
